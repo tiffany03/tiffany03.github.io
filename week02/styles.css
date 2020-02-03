@@ -15,3 +15,7 @@ header {
   padding: 40px;
   left-padding:120px;
 }
+
+#container {
+ margin-bottom:30px; 
+}
