@@ -25,9 +25,18 @@ nav {
  width:150px; 
 }
 
-nat ul {
+nav ul {
   padding:0px;
   margin:0px;
   life-style-type:none;
   color:#7C1A00;
 }
+
+nav li {
+  margin:10px;
+  border width:1px;
+  border-style:solid;
+  border-color:#7C1A00;
+  background-color:#FFE597;
+}
+  
