@@ -8,3 +8,10 @@ body {
   margin:30px;
   background-color:#F7FF3DE;
 }
+
+header {
+  font-size:350%;
+  color: #7C1A00;
+  padding: 40px;
+  left-padding:120px;
+}
